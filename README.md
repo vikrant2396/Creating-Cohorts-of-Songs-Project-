@@ -2,7 +2,7 @@
 
 A machine learning project that creates cohorts (clusters) of similar songs using Spotify audio features from The Rolling Stones discography. This clustering analysis enables personalized music recommendations by grouping songs with similar audio characteristics.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Business Context](#business-context)
