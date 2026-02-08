@@ -16,8 +16,7 @@ A machine learning project that creates cohorts (clusters) of similar songs usin
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Overview
 
 This project demonstrates unsupervised machine learning techniques to create cohorts of songs based on their audio features. By clustering similar songs together, we can:
